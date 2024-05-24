@@ -2,7 +2,6 @@ name = "hono_tododb"
 compatibility_date = "2023-12-01"
 
 [vars]
-MONGODB_DATABASE_URL="mongodb+srv://kaushiksahu18:Q9zcaZ20nw4058yA@cluster0.4gfxqbo.mongodb.net/"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
